@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ls-prabhu&theme=dark&card_width=850&card_height=250)](https://git.io/streak-stats)
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" width="1000" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 ###
