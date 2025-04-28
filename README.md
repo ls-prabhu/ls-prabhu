@@ -13,10 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ls-prabhu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ls-prabhu&radius=16&theme=react&area=true" 
+    height="300" 
+    alt="Activity Graph" 
+  />
 </div>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ls-prabhu&theme=dark&card_width=850&card_height=250)](https://git.io/streak-stats)
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=850&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=850&langs_count=5&theme=dracula&hide_border=false" 
+    height="150" 
+    alt="Top Languages" 
+  />
 </div>
