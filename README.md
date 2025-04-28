@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=850&langs_count=5&theme=dracula&hide_border=false" 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=ls-prabhu&locale=en&hide_title=false&layout=compact&card_width=900&langs_count=5&theme=dracula&hide_border=false" 
     height="150" 
     alt="Top Languages" 
   />
