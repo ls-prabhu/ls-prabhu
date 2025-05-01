@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
 <p align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=ls-prabhu&radius=16&theme=react&area=true" 
@@ -22,10 +24,10 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=ls-prabhu&theme=dark&card_width=850&card_height=250" 
-      alt="GitHub Streak" 
-    />
+   <img 
+     src="https://streak-stats.demolab.com?user=ls-prabhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" 
+     alt="streak graph"  
+  />
   </a>
 </p>
 
