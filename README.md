@@ -23,12 +23,10 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats">
    <img 
      src="https://streak-stats.demolab.com?user=ls-prabhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" 
      alt="streak graph"  
   />
-  </a>
 </p>
 
 <p align="center">
