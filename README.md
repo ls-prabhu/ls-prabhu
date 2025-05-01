@@ -24,8 +24,10 @@ Here are some ideas to get you started:
 
 <p align="center">
    <img 
-     src="https://streak-stats.demolab.com?user=ls-prabhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" 
-     alt="streak graph"  
+     src="https://streak-stats.demolab.com?user=ls-prabhu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
+     alt="streak graph"
+     height ="150"
+     width="900"
   />
 </p>
 
