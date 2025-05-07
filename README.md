@@ -21,8 +21,8 @@ Here are some ideas to get you started:
     alt="Activity Graph" 
   />
 </p>
-<center>![](https://nirzak-streak-stats.vercel.app/?user=ls-prabhu&theme=dark&hide_border=false)
-</center>
+![](https://nirzak-streak-stats.vercel.app/?user=ls-prabhu&theme=dark&hide_border=false)
+
 
 <p align="center">
   <img 
